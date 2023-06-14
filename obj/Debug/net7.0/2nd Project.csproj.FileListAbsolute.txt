@@ -1,0 +1,30 @@
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\bin\Debug\net7.0\2nd Project.exe
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\bin\Debug\net7.0\2nd Project.deps.json
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\bin\Debug\net7.0\2nd Project.runtimeconfig.json
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\bin\Debug\net7.0\2nd Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\bin\Debug\net7.0\2nd Project.pdb
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\obj\Debug\net7.0\2nd Project.csproj.AssemblyReference.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\obj\Debug\net7.0\2nd Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\obj\Debug\net7.0\2nd Project.AssemblyInfoInputs.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\obj\Debug\net7.0\2nd Project.AssemblyInfo.cs
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\obj\Debug\net7.0\2nd Project.csproj.CoreCompileInputs.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\obj\Debug\net7.0\2nd Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\obj\Debug\net7.0\refint\2nd Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\obj\Debug\net7.0\2nd Project.pdb
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\obj\Debug\net7.0\2nd Project.genruntimeconfig.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project\obj\Debug\net7.0\ref\2nd Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\bin\Debug\net7.0\2nd Project.exe
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\bin\Debug\net7.0\2nd Project.deps.json
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\bin\Debug\net7.0\2nd Project.runtimeconfig.json
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\bin\Debug\net7.0\2nd Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\bin\Debug\net7.0\2nd Project.pdb
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\obj\Debug\net7.0\2nd Project.csproj.AssemblyReference.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\obj\Debug\net7.0\2nd Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\obj\Debug\net7.0\2nd Project.AssemblyInfoInputs.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\obj\Debug\net7.0\2nd Project.AssemblyInfo.cs
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\obj\Debug\net7.0\2nd Project.csproj.CoreCompileInputs.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\obj\Debug\net7.0\2nd Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\obj\Debug\net7.0\refint\2nd Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\obj\Debug\net7.0\2nd Project.pdb
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\obj\Debug\net7.0\2nd Project.genruntimeconfig.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\2nd Project (Variables)\obj\Debug\net7.0\ref\2nd Project.dll
